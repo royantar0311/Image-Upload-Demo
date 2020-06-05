@@ -7,3 +7,5 @@ it happens only in Bangladesh. So, i searched a little more and found out this s
 
 I encoded the image to a string and pushed that string to firebase database and to set that image into somewhere,
 just decoded it to bitmap. this is not a good solution but for small projects, it works.
+
+video tutorial : https://youtu.be/g5Jxe5TbeRY
